@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AutoFileName",
+		"BracketHighlighter",
+		"CSS To SASS And Stylus Converter",
+		"CSS Unminifier",
+		"Emmet",
+		"FileDiffs",
+		"Gist",
+		"Goto-CSS-Declaration",
+		"Jade",
+		"JavaScriptNext - ES6 Syntax",
+		"jQuery",
+		"Minifier",
+		"Package Control",
+		"Pug",
+		"Sass",
+		"SFTP",
+		"Stylus",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"TypeScript",
+		"WebFont",
+		"WordPress",
+		"WordPress Completions"
+	]
+}

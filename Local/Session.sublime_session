@@ -1,0 +1,2625 @@
+{
+	"folder_history":
+	[
+		"/C/OpenServer/domains/gulp_boilerplate",
+		"/C/OpenServer/domains/gulp_boilerplate2",
+		"/C/OpenServer/domains/gruzovichkof.rus/www",
+		"/C/OpenServer/domains/gosta_kingsman",
+		"/C/OpenServer/domains/biznes-fond_old",
+		"/C/OpenServer/modules",
+		"/C/OpenServer/domains/biznes-fond",
+		"/C/OpenServer/domains/granat-holding",
+		"/C/OpenServer/domains/tx.lo",
+		"/C/OpenServer/domains/tx-frontend_new",
+		"/C/OpenServer/domains/granat-nova_2",
+		"/C/OpenServer/domains/granat-supernova",
+		"/C/OpenServer/domains/pirogi-domoy",
+		"/C/OpenServer/domains/gruzovichkof.rus/www/frontend",
+		"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src",
+		"/C/OpenServer/domains/prs.lo",
+		"/C/OpenServer/domains/tx-old.lo",
+		"/C/OpenServer/domains/tx-old",
+		"/C/Users/e.kozirev/Desktop/www",
+		"/C/Users/e.kozirev/Desktop/www (3)",
+		"/C/Users/e.kozirev/Desktop/email/www",
+		"/C/OpenServer/domains/work.taxovichkof.ru",
+		"/C/Users/e.kozirev/Desktop/taxovichkof.ru-new-master",
+		"/C/OpenServer/domains/tx-frontend",
+		"/C/OpenServer/domains/taxovichkof.rus/taxovichkof.ru-new",
+		"/C/_Work/template_new_project",
+		"/C/OpenServer/domains/git-repo-verstka",
+		"/C/OpenServer/domains/taxovichkof.rus/front2",
+		"/C/OpenServer/domains/gruzovichkof.rus/www/bower_components",
+		"/C/OpenServer/domains/taxovichkof.rus/front",
+		"/C/OpenServer/domains/gruzovichkof.rus",
+		"/C/Users/e.kozirev/Documents/Work/biznesfon",
+		"/C/Users/e.kozirev/Documents/Work/granat-holding-front"
+	],
+	"last_version": 3126,
+	"last_window_id": 25,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 759.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"max",
+						"max-height"
+					],
+					[
+						"height",
+						"height"
+					],
+					[
+						"screen-",
+						"screen-xs-max"
+					],
+					[
+						"data-",
+						"data-toggle"
+					],
+					[
+						"ove",
+						"overflow\t(main.js)"
+					],
+					[
+						"text",
+						"textarea"
+					],
+					[
+						"trans",
+						"transparent\t(sections.styl)"
+					],
+					[
+						"modal",
+						"modal-content"
+					],
+					[
+						"svg",
+						"svg4everybody\t(vendors.js)"
+					],
+					[
+						"repla",
+						"replace"
+					],
+					[
+						"replace",
+						"replaceWith\t.replaceWith()"
+					],
+					[
+						"load",
+						"load\t.load()"
+					],
+					[
+						"remove",
+						"removeClass\t.removeClass()"
+					],
+					[
+						"scree",
+						"screen-xs-max"
+					],
+					[
+						"screen",
+						"screen-md-max"
+					],
+					[
+						"first",
+						"first-child\t(sections.styl)"
+					],
+					[
+						"ea",
+						"each\t.each()"
+					],
+					[
+						"prop",
+						"prop\t.prop() - single"
+					],
+					[
+						"on",
+						"on\t.on()"
+					],
+					[
+						"css",
+						"css\t.css() - single"
+					],
+					[
+						"full",
+						"fullPageOptions"
+					],
+					[
+						"close",
+						"close-people"
+					],
+					[
+						"anima",
+						"animated"
+					],
+					[
+						"inser",
+						"insertAfter\t.insertAfter()"
+					],
+					[
+						"appe",
+						"appendTo\t.appendTo()"
+					],
+					[
+						"slick",
+						"slick-active"
+					],
+					[
+						"sub",
+						"submit\t.submit()"
+					],
+					[
+						"color_",
+						"color_yellow-10"
+					],
+					[
+						"color",
+						"color_yellow-10"
+					],
+					[
+						"rem",
+						"removeClass\t.removeClass()"
+					],
+					[
+						"visib",
+						"visibility"
+					],
+					[
+						"bre",
+						"breakpoints"
+					],
+					[
+						"bra",
+						"breakpoints"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"wi",
+						"window"
+					],
+					[
+						"ch",
+						"children\t.children()"
+					],
+					[
+						"remo",
+						"removeAttr\t.removeAttr()"
+					],
+					[
+						"opa",
+						"opacity-ie\t(modals.styl)"
+					],
+					[
+						"anim",
+						"animateCss"
+					],
+					[
+						"ou",
+						"outerWidth\t.outerWidth()"
+					],
+					[
+						"tri",
+						"trigger\t.trigger()"
+					],
+					[
+						"cha",
+						"change"
+					],
+					[
+						"removeA",
+						"removeAttr\t.removeAttr()"
+					],
+					[
+						"ease",
+						"ease-in-out\t(sections.styl)"
+					],
+					[
+						"image",
+						"images\t(close-people.pug)"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"heig",
+						"height-md-max"
+					],
+					[
+						"max-",
+						"max-height"
+					],
+					[
+						"bg",
+						"background-color"
+					],
+					[
+						"visi",
+						"visibility"
+					],
+					[
+						"min-wi",
+						"min-width\t(base.styl)"
+					],
+					[
+						"call",
+						"callback"
+					],
+					[
+						"pri",
+						"print_r"
+					],
+					[
+						"Ve",
+						"VerdanaRuble.ttf?v=101"
+					],
+					[
+						"info",
+						"infowindow"
+					],
+					[
+						"tac",
+						"time-call\t(index.pug)"
+					],
+					[
+						"__s",
+						"__style-2"
+					],
+					[
+						"screen-xs",
+						"screen-xs-max"
+					],
+					[
+						"compo",
+						"component-animations.styl"
+					],
+					[
+						"ele",
+						"elements"
+					],
+					[
+						"prev",
+						"prev\t.prev()"
+					],
+					[
+						"name",
+						"namespace"
+					],
+					[
+						"off",
+						"off\t.off()"
+					],
+					[
+						"attr",
+						"attr\t.attr() - single"
+					],
+					[
+						"Contac",
+						"Contact-section\t(contact-section.pug)"
+					],
+					[
+						"tran",
+						"transform"
+					],
+					[
+						"tra",
+						"transform"
+					],
+					[
+						"conta",
+						"container"
+					],
+					[
+						"filter",
+						"filter\t.filter()"
+					],
+					[
+						"res",
+						"resize\t.resize()"
+					],
+					[
+						"oh",
+						"outerHeight\t.outerHeight()"
+					],
+					[
+						"c",
+						"background-color"
+					],
+					[
+						"ow",
+						"outerWidth\t.outerWidth()"
+					],
+					[
+						"offs",
+						"offset\t.offset()"
+					],
+					[
+						"add",
+						"addClass\t.addClass()"
+					],
+					[
+						"form",
+						"form-callback\t(modal.pug)"
+					],
+					[
+						"pa",
+						"parent\t.parent()"
+					],
+					[
+						"pare",
+						"parent\t.parent()"
+					],
+					[
+						"he",
+						"height\t(index.pug)"
+					],
+					[
+						"Pro",
+						"ProximaNova"
+					],
+					[
+						"class",
+						"class=\"btn\t(main.js)"
+					],
+					[
+						"__",
+						"__hot\t(vakansi.pug)"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"color_g",
+						"color_grey-20"
+					],
+					[
+						"ac",
+						"achievement\t(main.styl)"
+					],
+					[
+						"h",
+						"height\t(_mixins.pug)"
+					],
+					[
+						"color_ge",
+						"color_grey-10"
+					],
+					[
+						"key",
+						"keyframes"
+					],
+					[
+						"eas",
+						"ease-in-out\t(main.styl)"
+					],
+					[
+						"ma",
+						"margin-right"
+					],
+					[
+						"proje",
+						"projectCard\t(gui.pug)"
+					],
+					[
+						"pro",
+						"projectName"
+					],
+					[
+						"price",
+						"priceList\t(index.pug)"
+					],
+					[
+						"Price",
+						"Price-list\t(price-list.pug)"
+					],
+					[
+						"l",
+						"left"
+					],
+					[
+						"arrow",
+						"arrow-up\t(demontaj.pug)"
+					],
+					[
+						"remov",
+						"removeClass\t.removeClass()"
+					],
+					[
+						"fil",
+						"filter\t.filter()"
+					],
+					[
+						"table",
+						"table-cell\t(gruz.styl)"
+					],
+					[
+						"child",
+						"children\t.children()"
+					],
+					[
+						"has",
+						"hasClass\t.hasClass()"
+					],
+					[
+						"goog",
+						"google.maps.event.addDomListener"
+					],
+					[
+						"moda",
+						"modal-open"
+					],
+					[
+						"screen-sm",
+						"screen-sm-max"
+					],
+					[
+						"min-",
+						"min-height"
+					],
+					[
+						"screen-sm-",
+						"screen-sm-max"
+					],
+					[
+						"screen-x",
+						"screen-sm-max"
+					],
+					[
+						"ap",
+						"append\t.append()"
+					],
+					[
+						"prepe",
+						"prependTo\t.prependTo()"
+					],
+					[
+						"hidden",
+						"hidden-xs\t(privat-area.pug)"
+					],
+					[
+						"togg",
+						"toggleClass\t.toggleClass()"
+					],
+					[
+						"min",
+						"min-height"
+					],
+					[
+						"a",
+						"absolute"
+					],
+					[
+						"disab",
+						"disabled\t(main.js)"
+					],
+					[
+						"las",
+						"last-of-type\t(modal.styl)"
+					],
+					[
+						"type",
+						"type=\"checkbox\t(main.js)"
+					],
+					[
+						"screen-md",
+						"screen-md-max"
+					],
+					[
+						"tr",
+						"transform\t(buttons.styl)"
+					],
+					[
+						"next",
+						"next\t.next()"
+					],
+					[
+						"last",
+						"last-child"
+					],
+					[
+						"re",
+						"relative"
+					],
+					[
+						"ov",
+						"overflow\t(main.js)"
+					],
+					[
+						"che",
+						"checked\t(form.styl)"
+					],
+					[
+						"out",
+						"outerHeight\t.outerHeight()"
+					],
+					[
+						"scroll",
+						"scrollTop\t.scrollTop()"
+					],
+					[
+						"hide",
+						"hidden\t(base.styl)"
+					],
+					[
+						"asi",
+						"aside-texture.png"
+					],
+					[
+						"chil",
+						"children\t.children()"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "insta",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"comm",
+						"Git: Commit"
+					],
+					[
+						"stat",
+						"Git: Status"
+					],
+					[
+						"git cha",
+						"Git: Change Branch"
+					],
+					[
+						"git ban",
+						"Git: New Branch"
+					],
+					[
+						"git log",
+						"Git: Log All"
+					],
+					[
+						"git pull",
+						"Git: Pull Current Branch"
+					],
+					[
+						"change",
+						"Git: Change Branch"
+					],
+					[
+						"branch",
+						"Git: Change Branch"
+					],
+					[
+						"chec",
+						"Git: Change Branch"
+					],
+					[
+						"status",
+						"Git: Status"
+					],
+					[
+						"commi",
+						"Git: Commit"
+					],
+					[
+						"checkout ",
+						"Git: Checkout Current File"
+					],
+					[
+						"checkout",
+						"Git: Checkout Tag"
+					],
+					[
+						"log",
+						"Git: Log All"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 464.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/gui/layouts/gui/parts/header/index.pug",
+				"/C/OpenServer/domains/biznes-fond/src/main/js/glossary.js",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/modules/site/views/layouts/main.php",
+				"/C/OpenServer/domains/biznes-fond/src/main/js/glossaryArray.js",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/main/style/main.styl",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/gui/list.pug",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/gui/components/List/styles-4.pug",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/gui/component-status.pug",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/main/politics.pug",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/gui/layouts/gui/index.styl",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/gui/components/List/index.styl",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/gui/components/List/multilist.pug",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/gui/typography.pug",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/gui/globals/stylus/_css--typography.styl",
+				"/C/OpenServer/domains/granat-nova_2/src/main/js/main.js",
+				"/C/OpenServer/domains/granat-nova_2/src/default/style/sections.styl",
+				"/C/OpenServer/domains/granat-nova_2/build/services.html",
+				"/C/OpenServer/domains/granat-nova_2/src/default/style/header.styl",
+				"/C/OpenServer/domains/granat-nova_2/build/404.html",
+				"/C/OpenServer/domains/granat-nova_2/src/main/404.pug",
+				"/C/OpenServer/domains/granat-nova_2/src/default/style/_fonts.styl",
+				"/C/OpenServer/domains/granat-nova_2/src/main/close-people.pug",
+				"/C/OpenServer/domains/granat-nova_2/src/main/dost-app.pug",
+				"/C/OpenServer/domains/granat-nova_2/src/main/komet.pug",
+				"/C/OpenServer/domains/granat-nova_2/src/main/meteor.pug",
+				"/C/OpenServer/domains/granat-nova_2/src/main/musicl.pug",
+				"/C/OpenServer/domains/granat-nova_2/src/main/promo-tx-mts.pug",
+				"/C/OpenServer/domains/granat-nova_2/src/main/samson.pug",
+				"/C/OpenServer/domains/granat-nova_2/src/main/template.pug",
+				"/C/OpenServer/domains/granat-nova_2/src/main/tx-app.pug",
+				"/C/OpenServer/domains/granat-nova_2/src/main/tx.pug",
+				"/C/OpenServer/domains/granat-nova_2/src/default/index.pug",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/main/style/partials/services.styl",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/main/services-gf.pug",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/main/gruz-corp.index.pug",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/main/style/partials/juridicheskim-licam.styl",
+				"/C/OpenServer/domains/granat-nova_2/src/default/style/form.styl",
+				"/C/OpenServer/domains/granat-nova_2/src/default/style/animate.styl",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/modules/site/views/layouts/blocks/order_car.php",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/modules/site/controllers/DefaultController.php",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/modules/site/models/OrderCar.php",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/modules/site/controllers/AjaxController.php",
+				"/C/OpenServer/domains/granat-nova_2/src/default/js/fileUploader.js",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/modules/site/views/upakovka/default/catalog.php",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/modules/site/views/upakovka/default/contacts.php",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/modules/site/views/upakovka/default/delivery.php",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/components/Breadcrumbs.php",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/modules/site/views/upakovka/default/index.php",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/modules/mng/views/articles-categories/create.php",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/modules/site/views/layouts/upakovka.php",
+				"/C/Users/e.kozirev/Desktop/старая упаковка Главная МСК.html",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/upakovka/style/upakovka.styl",
+				"/C/Users/e.kozirev/Desktop/старая упаковка Главная.html",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/upakovka/jade/header.pug",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/upakovka/style/header.styl",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/gui/modules/Header/index.styl",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/modules/site/views/upakovka/default/korzina-form.php",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/modules/site/views/upakovka/default/blocks/korzina_delivery.php",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/build/pack-cart.html",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/modules/site/views/layouts/blocks/modal.php",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/modules/site/models/RelocationForm.php",
+				"/C/OpenServer/domains/granat-supernova/src/main/contacts.pug",
+				"/C/OpenServer/domains/granat-supernova/src/default/style/contacts.styl",
+				"/C/OpenServer/domains/granat-supernova/src/main/js/map.js",
+				"/C/OpenServer/domains/granat-nova_2/src/default/style/case.styl",
+				"/C/OpenServer/domains/granat-nova_2/build/samson.html",
+				"/C/Users/e.kozirev/Desktop/snazzy-maps-example-shades-of-grey-style.html",
+				"/C/OpenServer/domains/granat-nova_2/src/default/style/typography.styl",
+				"/C/OpenServer/domains/granat-nova_2/src/main/main.pug",
+				"/C/OpenServer/domains/granat-nova_2/build/js/main.js",
+				"/C/OpenServer/domains/granat-nova_2/src/main/pug/modal/case-callback.pug",
+				"/C/OpenServer/domains/granat-nova_2/src/default/style/base.styl",
+				"/C/OpenServer/domains/granat-nova_2/src/default/style/modal.styl",
+				"/C/OpenServer/domains/granat-nova_2/src/default/js/vendors.js",
+				"/C/OpenServer/domains/granat-nova_2/build/close-people.html",
+				"/C/OpenServer/domains/granat-nova_2/src/default/style/link.styl",
+				"/C/OpenServer/domains/granat-nova_2/src/default/style/buttons.styl",
+				"/C/OpenServer/domains/granat-nova_2/build/main.html",
+				"/C/OpenServer/domains/granat-nova_2/src/default/style/_variables.styl",
+				"/C/OpenServer/domains/granat-nova_2/src/default/pug/_mixins.pug",
+				"/C/OpenServer/domains/granat-nova_2/src/main/pug/layout.main.pug",
+				"/C/OpenServer/domains/granat-nova_2/src/default/style/footer.styl",
+				"/C/OpenServer/domains/granat-nova_2/gulpfile.babel.js",
+				"/C/OpenServer/domains/granat-nova_2/src/default/sprite/angle-down-select",
+				"/C/Users/e.kozirev/Desktop/x.svg",
+				"/C/OpenServer/domains/granat-nova_2/src/main/style/main.styl",
+				"/C/OpenServer/domains/granat-nova_2/src/default/style/social.styl",
+				"/C/OpenServer/domains/granat-nova_2/src/default/style/breadcrumbs.styl",
+				"/C/OpenServer/domains/granat-nova_2/src/default/js/case-navigation.js",
+				"/C/OpenServer/domains/granat-nova_2/src/default/style/tools/case-navigation.styl",
+				"/C/OpenServer/domains/granat-nova_2/src/main/pug/main-slider/animation.pug",
+				"/C/OpenServer/domains/granat-nova_2/src/main/pug/header.pug",
+				"/C/OpenServer/domains/granat-nova_2/build/css/main.css",
+				"/C/OpenServer/domains/granat-nova_2/src/main/services.pug",
+				"/C/OpenServer/domains/granat-nova_2/src/default/style/property.styl",
+				"/C/OpenServer/domains/granat-nova_2/src/default/style/tools/fp.styl",
+				"/C/OpenServer/domains/granat-nova_2/build/meteor.html",
+				"/C/OpenServer/domains/granat-nova_2/build/tx.html",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/gui/components/Page-navigation/page-navigation.js",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/gui/components/File-uploader/file-uploader.js",
+				"/C/OpenServer/domains/granat-nova_2/build/tx-app.html",
+				"/C/OpenServer/domains/granat-nova_2/build/promo-tx-mts.html",
+				"/C/OpenServer/domains/granat-nova_2/build/dost-app.html",
+				"/C/OpenServer/domains/granat-nova_2/build/musicl.html",
+				"/C/OpenServer/domains/granat-nova_2/build/komet.html",
+				"/C/OpenServer/domains/granat-nova_2/src/main/pug/slide-case.pug",
+				"/C/OpenServer/domains/gosta_kingsman/src/default/style/footer.styl",
+				"/C/OpenServer/domains/gosta_kingsman/src/default/style/main.styl",
+				"/C/OpenServer/domains/gosta_kingsman/src/main/pug/modal/registration.pug",
+				"/C/OpenServer/domains/gosta_kingsman/src/main/pug/layout.main.pug",
+				"/C/OpenServer/domains/gosta_kingsman/src/main/pug/footer.pug",
+				"/C/OpenServer/domains/gosta_kingsman/src/main/index.pug",
+				"/C/OpenServer/domains/gosta_kingsman/build/send.php",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/modules/site/views/layouts/blocks/social-footer.php",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/modules/site/views/layouts/blocks/calculator.php",
+				"/C/OpenServer/domains/gosta_kingsman/src/main/js/main.js",
+				"/C/Users/e.kozirev/Desktop/www/index.html",
+				"/C/OpenServer/domains/gosta_kingsman/src/default/sprite/cross.svg",
+				"/C/OpenServer/domains/gosta_kingsman/src/default/sprite/icon_twitter.svg",
+				"/C/OpenServer/domains/gosta_kingsman/src/default/sprite/retry.svg",
+				"/C/Users/e.kozirev/Desktop/www/send.php",
+				"/C/OpenServer/domains/biznes-fond_old/src/main/js/main.js",
+				"/C/OpenServer/domains/gosta_kingsman/src/default/pug/_mixins.pug",
+				"/C/Users/e.kozirev/Desktop/submit.svg",
+				"/C/Users/e.kozirev/Desktop/www/manifest.json",
+				"/C/OpenServer/domains/gosta_kingsman/src/main/pug/header.pug",
+				"/C/OpenServer/domains/gosta_kingsman/src/default/sprite/submit.svg",
+				"/C/OpenServer/domains/gosta_kingsman/src/default/index.pug"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 128.0,
+				"where_history":
+				[
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src\\gui",
+					"C:\\OpenServer\\domains\\granat-nova_2\\src\\main",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\modules\\site\\controllers",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\modules",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\modules\\site\\views\\upakovka",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src\\upakovka",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src\\upakovka\\style",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src\\upakovka",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\modules",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\modules\\site\\views\\upakovka",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\messages",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\models",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\modules",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\modules",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\modules\\site\\views\\upakovka",
+					"C:\\OpenServer\\domains\\granat-nova_2\\src\\main",
+					"C:\\OpenServer\\domains\\granat-nova_2\\src\\default\\js",
+					"C:\\OpenServer\\domains\\granat-nova_2\\src\\default\\style",
+					"C:\\OpenServer\\domains\\granat-nova_2\\src\\main",
+					"C:\\OpenServer\\domains\\granat-nova_2\\src\\default\\style",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\components",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gosta_kingsman\\src\\main",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\modules\\site\\views",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\modules\\site\\views\\upakovka",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\modules\\site\\views\\upakovka",
+					"C:\\OpenServer\\domains\\biznes-fond_old\\src\\default\\style",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\modules",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\modules",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\modules\\site\\views\\main",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src\\default",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\modules",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\modules\\site\\views\\main",
+					"C:\\OpenServer\\domains\\granat-nova_2\\node_modules\\bootstrap-styl\\bootstrap",
+					"C:\\OpenServer\\domains\\granat-nova_2\\node_modules\\bootstrap-styl\\bootstrap\\mixins",
+					"C:\\OpenServer\\domains\\granat-nova_2\\src\\default\\style",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\modules",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\tx.lo",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\modules\\site\\views",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src\\default\\style",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src\\default\\style",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\granat-nova_2\\src\\default\\style",
+					"C:\\OpenServer\\domains\\granat-nova_2\\src",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\modules\\site\\views\\trash",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\granat-nova_2\\src",
+					"C:\\OpenServer\\domains\\granat-nova_2",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src\\main\\style",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src\\default\\style",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\modules",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\web",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\web",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\migrations",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\web\\scripts",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src\\gui\\globals\\stylus",
+					"C:\\OpenServer\\domains\\tx-frontend_new\\frontend\\src\\landing\\style\\excursions\\partials",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src\\main\\style",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src\\main",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src\\default",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src\\main\\style",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src\\default",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src\\main",
+					"C:\\OpenServer\\domains\\pirogi-domoy\\src\\default\\style",
+					"C:\\OpenServer\\domains\\pirogi-domoy\\src\\main\\style",
+					"C:\\OpenServer\\domains\\pirogi-domoy\\src\\default\\style",
+					"C:\\OpenServer\\domains\\pirogi-domoy\\src\\main\\style",
+					"C:\\OpenServer\\domains\\pirogi-domoy\\src\\default\\style",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend",
+					"C:\\OpenServer\\domains\\pirogi-domoy\\node_modules\\bootstrap-styl",
+					"C:\\OpenServer\\domains\\pirogi-domoy\\src\\default\\style",
+					"C:\\OpenServer\\domains\\pirogi-domoy\\node_modules\\bootstrap-styl\\bootstrap",
+					"C:\\OpenServer\\domains\\pirogi-domoy\\src\\main",
+					"C:\\OpenServer\\domains\\biznes-fond\\src\\main",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\web\\scripts",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src\\gui\\components",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src\\gui",
+					"C:\\OpenServer\\domains\\biznes-fond\\src\\main",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src\\default\\style",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\biznes-fond",
+					"C:\\OpenServer\\domains\\biznes-fond\\src\\main",
+					"C:\\OpenServer\\domains\\pirogi-domoy\\src\\default\\style"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"data-js=\"header-search\"",
+					"Glossary",
+					"header_cities",
+					"<ol class=\"list __style-3\">",
+					"<ol class=\"list __style-2\">",
+					"ol",
+					"text-color-brand-01",
+					"Form",
+					"politics-list",
+					"section_project",
+					"section-project",
+					"services",
+					".dilution-list",
+					"switch",
+					"simpe",
+					"Магазин упаковки",
+					"МАГАЗИН УПАКОВКИ",
+					"МАГАЗИН УПАКОВКИ\n",
+					"model",
+					"php",
+					"breadcrumbs",
+					"Грузоперевозки",
+					"wrapper upakovka",
+					"заказать",
+					"header_logo-add",
+					".header",
+					"-add",
+					"add",
+					"header",
+					"Магазин упаковки",
+					"header_logo-add",
+					"deliveries",
+					"Cart",
+					"тече",
+					"cart-form",
+					"В течении двух часов",
+					"radio-button_label_appearance",
+					"Доста",
+					"cart-delivery",
+					"течении",
+					"В течении двух часов",
+					"течении",
+					"nечении",
+					"В течении",
+					"В течении двух часов",
+					"cart-form",
+					"beachMarker",
+					"mapOptions",
+					"img",
+					".case-musicl",
+					"modal-message",
+					"sprite",
+					"svg",
+					"input",
+					"file",
+					"auto",
+					"svg",
+					"selec",
+					".link",
+					".case-navigation",
+					"<use xlink:href=\"[[~[[*id]]]]",
+					"icon",
+					"<use xlink:href=\"[[~[[*id]]]]",
+					"svg",
+					"document.location.pathname",
+					"histor",
+					"+icon('angle-left')\n+icon('angle-right')",
+					"each",
+					"buttons",
+					"sections",
+					"index",
+					"HEAD",
+					".case-txapp",
+					".case-txapp_main",
+					"window",
+					"console",
+					".case-promotxmts",
+					".case-komet",
+					".case-kome",
+					"animateCss",
+					".case-musicl",
+					".case-komet",
+					".case-komet_mir",
+					".case-meteor",
+					"load",
+					"fullpage",
+					"scrollOverflow",
+					"scrollOverflow:true",
+					"fp-section",
+					".fp-section",
+					"destroy();",
+					"$.fn.fullpage.destroy();",
+					"$.fn.fullpage.destroy();\n",
+					"pageNavigation",
+					"navigation",
+					"php",
+					"ph",
+					"php",
+					"footer",
+					"><",
+					"type",
+					"request",
+					"type",
+					"ns_adobe_xpath",
+					"PHP",
+					"php",
+					"text/javascript",
+					"$('.btn-callback').on('click', function(){yaCounter26285553.reachGoal('btn-callback')",
+					"php",
+					"main.js",
+					"edit",
+					"text-color",
+					"+icon",
+					"});\n",
+					"bread",
+					"section-4",
+					"#section-4",
+					".careers",
+					"header_nav",
+					"#section-4",
+					"breadcrumbs",
+					"Главная",
+					"homeLink",
+					"$homeLink",
+					"зрз",
+					"МАГАЗИН УПАКОВКИ",
+					"BOX",
+					"box"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"<ol class=\"list __style-3 __num-style-1\">",
+					"<ol class=\"list __style-2 __num-style-1\">",
+					"section-project",
+					".services-list",
+					".case-samson",
+					"<use xlink:href=\"/assets/images/sprite.svg",
+					"+icon('angle-right')\n+icon('angle-left')",
+					".case-tx",
+					".case-txapp",
+					".case-promotxmts",
+					".case-dostapp",
+					".case-musicl",
+					".case-komet_adv",
+					".case-komet",
+					"caseNavigation",
+					" ",
+					"",
+					"grid-inline",
+					"<use xlink:href=\"[[~[[*id]]]]",
+					"grid-inline",
+					"$el",
+					"customSelect",
+					".section_project",
+					"₽",
+					" ₽",
+					"₽",
+					"$body",
+					"$fullpage",
+					"<span class=\"tariff-price_val-currency ruble\">₽</span>",
+					"<span class=\"ruble\">₽</span>",
+					"<span class=\"tariff-price_val-currency ruble\">₽</span>",
+					" ₽",
+					"Pragmatica",
+					".section-clients_slider_i.wow.zoomIn",
+					"data-color_theme",
+					"color_style",
+					"data-color_style",
+					".wow.fadeIn",
+					"<span class=\"ruble\">₽</span>",
+					"$items",
+					"<div class=\"form_submit\">\n        <input type=\"submit\" value=\"Отправить анкету\" class=\"button __size-md __style-4\">\n    </div>",
+					"<?= $form->field($model, 'checked')->checkbox([\n    'class' => false,\n    'label' => '<div class=\"convention-text text-left\">Я не против проверки сведений <a href=\"#\" data-js=\"show-text\">...</a><span class=\"hidden\" date-js=\"hidden-text\">, изложенных мною в анкете. Я понимаю, что предоставление ложной информации повлечет за собой прекращение переговоров о найме на работу или мое увольнение в случае, если прием на работу состоится. Ксерокопии документов не возвращаются.</span> <a href=\"#\" class=\"hidden\" data-js=\"hide-text\"><small>свернуть</small></a></div>'\n])->label('', ['class' => false])->error(false) ?>",
+					"<?= $form->field($model, 'checked')->checkbox([\n    'class' => false,\n    'label' => '<div class=\"convention-text\">Я не против проверки сведений <a href=\"#\" data-js=\"show-text\">...</a><span class=\"hidden\" date-js=\"hidden-text\">, изложенных мною в анкете. Я понимаю, что предоставление ложной информации повлечет за собой прекращение переговоров о найме на работу или мое увольнение в случае, если прием на работу состоится. Ксерокопии документов не возвращаются.</span> <a href=\"#\" class=\"hidden\" data-js=\"hide-text\"><small>свернуть</small></a></div>'\n])->label('', ['class' => false])->error(false) ?>",
+					"<?= $form->field($model, 'checked')->checkbox([\n    'class' => 'form__text',\n    'label' => '<div class=\"convention-text\">Я не против проверки сведений <a href=\"#\" data-js=\"show-text\">...</a><span class=\"hidden\" date-js=\"hidden-text\">, изложенных мною в анкете. Я понимаю, что предоставление ложной информации повлечет за собой прекращение переговоров о найме на работу или мое увольнение в случае, если прием на работу состоится. Ксерокопии документов не возвращаются.</span> <a href=\"#\" class=\"hidden\" data-js=\"hide-text\"><small>свернуть</small></a></div>'\n])->label('', ['class' => false])->error(false) ?>",
+					"<?= $form->field($model, 'graf')->textInput(['class' => false])->label('Желаемый график работы', ['class' => false]) ?>",
+					"<?= $form->field($model, 'work')->textArea(['class' => false])->label('Предыдущее место работы', ['class' => false]) ?>",
+					"<?= $form->field($model, 'study')->textArea(['class' => false])->label('Образование', ['class' => false]) ?>",
+					"<?= $form->field($model, 'know')->textInput(['class' => false])->label('Знание компьютера', ['class' => false]) ?>",
+					"<?= $form->field($model, 'address')->textInput(['placeholder' =>$address, 'class' => false]) ?>",
+					"<div class=\"form_submit\">\n        <input type=\"submit\" value=\"Позвоните мне\" class=\"button __size-md __style-4\">\n    </div>",
+					"<?= $form->field($model, 'know')->textArea(['class' => false])->label('Опишите свои навыки', ['class' => false]) ?>",
+					"<?= $form->field($model, 'know')->textArea(['class' => 'form__text'])->label('Опишите свои навыки', ['class' => false]) ?>",
+					"<?= $form->field($model, 'address')->textInput(['placeholder' => $address, 'class' => false]) ?>",
+					"<?= $form->field($model, 'phone')->textInput(['placeholder' => '+7 (111) 111-11-11', 'data-js-mask' => '+7 (999) 999-99-99', 'class' => false]) ?>",
+					"<?= $form->field($model, 'birthday')->textInput(['placeholder' => '01.01.1980', 'class' => 'js-datapicker', 'id' => 'jobs-datepicker']) ?>",
+					"<?= $form->field($model, 'name')->textInput(['placeholder' => 'Фамилия Имя Отчество', 'class' => 'only-letter-input']) ?>",
+					"<?= $form->field($model, 'categ', ['template' => '<div class=\"form_field_label\">{label}</div><div class=\"form_field_input\"><div class=\"select_w\" data-js=\"chosen\">{input}</div></div>'])->dropDownList($model->getCategory(), ['class' => 'select'])->label('Категория/стаж'); ?>",
+					"<?= $form->field($model, 'stag', ['template' => '<div class=\"form_field_label\">{label}</div><div class=\"form_field_input\"><div class=\"select_w\" data-js=\"chosen\">{input}</div></div>'])->dropDownList($model->getStage(), ['class' => 'select'])->label(false); ?>",
+					"'fieldConfig' => [\n        'template' => \"<div class='form_field_label'>{label}</div>\\n<div class='form_field_input'>{input}</div>\",\n        'labelOptions' => [],\n        'options' => [\n            'class' => 'form_field',\n        ],\n    ],",
+					"'fieldConfig' => [\n    'template' => \"<div class='form_field_label'>{label}</div>\\n<div class='form_field_input'>{input}</div>\",\n    'labelOptions' => [],\n    'options' => [\n        'class' => 'form_field',\n    ],\n],",
+					"'fieldConfig' => [\n        'template' => \"<div class='form_field_label'>{label}</div>\\n<div class='form_field_input'>{input}</div>\",\n        'labelOptions' => [],\n        'options' => [\n            'class' => 'form_field',\n        ],\n    ],",
+					"<span class=\"cfc__rubl-symbol\">₽</span>",
+					".ruble ₽",
+					"&nbsp;<span class=\"ruble\">₽</span>",
+					"<span class=\"ruble\">₽</span>",
+					"&nbsp;₽",
+					"₽",
+					"Property-table",
+					"Property Table",
+					".container",
+					"property-list",
+					".property-list",
+					"Property-list",
+					".property-list",
+					"property-list",
+					",\n                                    image_xs:\n                                    image:",
+					".col-xs-6.col-sm-6.col-md-4",
+					"' + o",
+					"@margin-top",
+					") {",
+					"@margin-top",
+					"pageNavigation",
+					"Page-navigation",
+					"Page Navigation",
+					"consss-section",
+					"contact-section",
+					", ['",
+					", '[",
+					"'],",
+					"$options",
+					"#000",
+					"$color_white-10",
+					"$brand-01",
+					"Category",
+					".category",
+					"| ₽",
+					"₽",
+					"a.button.__size-sm.__style-2(href='#') Заказать",
+					"a.button.__size-md.__style-2(href='#') Заказать",
+					"a.button.__size-md.__style-1(href='#') Заказать",
+					"/images/landings/",
+					"/images",
+					"images",
+					"http",
+					"landing",
+					"h4",
+					"main",
+					"'../../",
+					"extends pug/layout.default.pug",
+					"extends ../default/pug/layout.default.pug",
+					"pug",
+					".carousel-vacansies_slide",
+					".carousel-vacansies",
+					"galleryItem",
+					"figure",
+					"className",
+					" ",
+					"colorBgTR",
+					"$color",
+					"blockColor",
+					"a(href=\"vacancies.html\") Вакансии",
+					"a(href=\"team.html\") Команда",
+					"a(href=\"achievement.html\") Достижения",
+					"vacancies_tabs",
+					"data-sup",
+					"vacancies-tabs",
+					"services-tabs",
+					"icon-next"
+				],
+				"reverse": false,
+				"show_context": false,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 130.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 354.0
+			},
+			"output.sftp":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 305.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1344.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"file",
+						"filename"
+					],
+					[
+						"mouse",
+						"mouseover\t.mouseover()"
+					],
+					[
+						"max",
+						"max-height"
+					],
+					[
+						"max-",
+						"max-height\t(sections.styl)"
+					],
+					[
+						"pre",
+						"preventDefault"
+					],
+					[
+						"sc",
+						"scroll"
+					],
+					[
+						"height",
+						"height"
+					],
+					[
+						"screen-",
+						"screen-xs-max"
+					],
+					[
+						"data-",
+						"data-toggle"
+					],
+					[
+						"ove",
+						"overflow\t(main.js)"
+					],
+					[
+						"text",
+						"textarea"
+					],
+					[
+						"trans",
+						"transparent\t(sections.styl)"
+					],
+					[
+						"modal",
+						"modal-content"
+					],
+					[
+						"svg",
+						"svg4everybody\t(vendors.js)"
+					],
+					[
+						"repla",
+						"replace"
+					],
+					[
+						"replace",
+						"replaceWith\t.replaceWith()"
+					],
+					[
+						"load",
+						"load\t.load()"
+					],
+					[
+						"remove",
+						"removeClass\t.removeClass()"
+					],
+					[
+						"scree",
+						"screen-xs-max"
+					],
+					[
+						"screen",
+						"screen-md-max"
+					],
+					[
+						"first",
+						"first-child\t(sections.styl)"
+					],
+					[
+						"ea",
+						"each\t.each()"
+					],
+					[
+						"prop",
+						"prop\t.prop() - single"
+					],
+					[
+						"on",
+						"on\t.on()"
+					],
+					[
+						"css",
+						"css\t.css() - single"
+					],
+					[
+						"full",
+						"fullPageOptions"
+					],
+					[
+						"close",
+						"close-people"
+					],
+					[
+						"anima",
+						"animated"
+					],
+					[
+						"inser",
+						"insertAfter\t.insertAfter()"
+					],
+					[
+						"appe",
+						"appendTo\t.appendTo()"
+					],
+					[
+						"slick",
+						"slick-active"
+					],
+					[
+						"sub",
+						"submit\t.submit()"
+					],
+					[
+						"color_",
+						"color_yellow-10"
+					],
+					[
+						"color",
+						"color_yellow-10"
+					],
+					[
+						"rem",
+						"removeClass\t.removeClass()"
+					],
+					[
+						"visib",
+						"visibility"
+					],
+					[
+						"bre",
+						"breakpoints"
+					],
+					[
+						"bra",
+						"breakpoints"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"wi",
+						"window"
+					],
+					[
+						"ch",
+						"children\t.children()"
+					],
+					[
+						"remo",
+						"removeAttr\t.removeAttr()"
+					],
+					[
+						"opa",
+						"opacity-ie\t(modals.styl)"
+					],
+					[
+						"anim",
+						"animateCss"
+					],
+					[
+						"ou",
+						"outerWidth\t.outerWidth()"
+					],
+					[
+						"tri",
+						"trigger\t.trigger()"
+					],
+					[
+						"cha",
+						"change"
+					],
+					[
+						"removeA",
+						"removeAttr\t.removeAttr()"
+					],
+					[
+						"ease",
+						"ease-in-out\t(sections.styl)"
+					],
+					[
+						"image",
+						"images\t(close-people.pug)"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"heig",
+						"height-md-max"
+					],
+					[
+						"bg",
+						"background-color"
+					],
+					[
+						"visi",
+						"visibility"
+					],
+					[
+						"min-wi",
+						"min-width\t(base.styl)"
+					],
+					[
+						"call",
+						"callback"
+					],
+					[
+						"pri",
+						"print_r"
+					],
+					[
+						"Ve",
+						"VerdanaRuble.ttf?v=101"
+					],
+					[
+						"info",
+						"infowindow"
+					],
+					[
+						"tac",
+						"time-call\t(index.pug)"
+					],
+					[
+						"__s",
+						"__style-2"
+					],
+					[
+						"screen-xs",
+						"screen-xs-max"
+					],
+					[
+						"compo",
+						"component-animations.styl"
+					],
+					[
+						"ele",
+						"elements"
+					],
+					[
+						"prev",
+						"prev\t.prev()"
+					],
+					[
+						"name",
+						"namespace"
+					],
+					[
+						"off",
+						"off\t.off()"
+					],
+					[
+						"attr",
+						"attr\t.attr() - single"
+					],
+					[
+						"Contac",
+						"Contact-section\t(contact-section.pug)"
+					],
+					[
+						"tran",
+						"transform"
+					],
+					[
+						"tra",
+						"transform"
+					],
+					[
+						"conta",
+						"container"
+					],
+					[
+						"filter",
+						"filter\t.filter()"
+					],
+					[
+						"res",
+						"resize\t.resize()"
+					],
+					[
+						"oh",
+						"outerHeight\t.outerHeight()"
+					],
+					[
+						"c",
+						"background-color"
+					],
+					[
+						"ow",
+						"outerWidth\t.outerWidth()"
+					],
+					[
+						"offs",
+						"offset\t.offset()"
+					],
+					[
+						"add",
+						"addClass\t.addClass()"
+					],
+					[
+						"form",
+						"form-callback\t(modal.pug)"
+					],
+					[
+						"pa",
+						"parent\t.parent()"
+					],
+					[
+						"pare",
+						"parent\t.parent()"
+					],
+					[
+						"he",
+						"height\t(index.pug)"
+					],
+					[
+						"Pro",
+						"ProximaNova"
+					],
+					[
+						"class",
+						"class=\"btn\t(main.js)"
+					],
+					[
+						"__",
+						"__hot\t(vakansi.pug)"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"color_g",
+						"color_grey-20"
+					],
+					[
+						"ac",
+						"achievement\t(main.styl)"
+					],
+					[
+						"h",
+						"height\t(_mixins.pug)"
+					],
+					[
+						"color_ge",
+						"color_grey-10"
+					],
+					[
+						"key",
+						"keyframes"
+					],
+					[
+						"eas",
+						"ease-in-out\t(main.styl)"
+					],
+					[
+						"ma",
+						"margin-right"
+					],
+					[
+						"proje",
+						"projectCard\t(gui.pug)"
+					],
+					[
+						"pro",
+						"projectName"
+					],
+					[
+						"price",
+						"priceList\t(index.pug)"
+					],
+					[
+						"Price",
+						"Price-list\t(price-list.pug)"
+					],
+					[
+						"l",
+						"left"
+					],
+					[
+						"arrow",
+						"arrow-up\t(demontaj.pug)"
+					],
+					[
+						"remov",
+						"removeClass\t.removeClass()"
+					],
+					[
+						"fil",
+						"filter\t.filter()"
+					],
+					[
+						"table",
+						"table-cell\t(gruz.styl)"
+					],
+					[
+						"child",
+						"children\t.children()"
+					],
+					[
+						"has",
+						"hasClass\t.hasClass()"
+					],
+					[
+						"goog",
+						"google.maps.event.addDomListener"
+					],
+					[
+						"moda",
+						"modal-open"
+					],
+					[
+						"screen-sm",
+						"screen-sm-max"
+					],
+					[
+						"min-",
+						"min-height"
+					],
+					[
+						"screen-sm-",
+						"screen-sm-max"
+					],
+					[
+						"screen-x",
+						"screen-sm-max"
+					],
+					[
+						"ap",
+						"append\t.append()"
+					],
+					[
+						"prepe",
+						"prependTo\t.prependTo()"
+					],
+					[
+						"hidden",
+						"hidden-xs\t(privat-area.pug)"
+					],
+					[
+						"togg",
+						"toggleClass\t.toggleClass()"
+					],
+					[
+						"min",
+						"min-height"
+					],
+					[
+						"a",
+						"absolute"
+					],
+					[
+						"disab",
+						"disabled\t(main.js)"
+					],
+					[
+						"las",
+						"last-of-type\t(modal.styl)"
+					],
+					[
+						"type",
+						"type=\"checkbox\t(main.js)"
+					],
+					[
+						"screen-md",
+						"screen-md-max"
+					],
+					[
+						"tr",
+						"transform\t(buttons.styl)"
+					],
+					[
+						"next",
+						"next\t.next()"
+					],
+					[
+						"last",
+						"last-child"
+					],
+					[
+						"re",
+						"relative"
+					],
+					[
+						"ov",
+						"overflow\t(main.js)"
+					],
+					[
+						"che",
+						"checked\t(form.styl)"
+					],
+					[
+						"out",
+						"outerHeight\t.outerHeight()"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "insta",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"comm",
+						"Git: Commit"
+					],
+					[
+						"stat",
+						"Git: Status"
+					],
+					[
+						"git cha",
+						"Git: Change Branch"
+					],
+					[
+						"git ban",
+						"Git: New Branch"
+					],
+					[
+						"git log",
+						"Git: Log All"
+					],
+					[
+						"git pull",
+						"Git: Pull Current Branch"
+					],
+					[
+						"change",
+						"Git: Change Branch"
+					],
+					[
+						"branch",
+						"Git: Change Branch"
+					],
+					[
+						"chec",
+						"Git: Change Branch"
+					],
+					[
+						"status",
+						"Git: Status"
+					],
+					[
+						"commi",
+						"Git: Commit"
+					],
+					[
+						"checkout ",
+						"Git: Checkout Current File"
+					],
+					[
+						"checkout",
+						"Git: Checkout Tag"
+					],
+					[
+						"log",
+						"Git: Log All"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 464.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/OpenServer/domains/granat-nova_2",
+				"/C/OpenServer/domains/granat-nova_2/src",
+				"/C/OpenServer/domains/granat-nova_2/src/default",
+				"/C/OpenServer/domains/granat-nova_2/src/default/style",
+				"/C/OpenServer/domains/granat-nova_2/src/main",
+				"/C/OpenServer/domains/gulp_boilerplate2/src",
+				"/C/OpenServer/domains/gulp_boilerplate/src"
+			],
+			"file_history":
+			[
+				"/C/OpenServer/domains/gulp_boilerplate/src/main/js/main.js",
+				"/C/OpenServer/domains/gulp_boilerplate2/gulpfile.babel.js",
+				"/C/OpenServer/domains/granat-nova_2/src/default/style/sections.styl",
+				"/C/OpenServer/domains/granat-nova_2/src/main/js/main.js",
+				"/C/OpenServer/domains/granat-nova_2/src/default/style/form.styl",
+				"/C/OpenServer/domains/granat-nova_2/src/main/main.pug",
+				"/C/OpenServer/domains/granat-nova_2/src/default/js/vendors.js",
+				"/C/OpenServer/domains/granat-nova_2/src/default/js/custom-select.js",
+				"/C/Users/e.kozirev/Desktop/index.html",
+				"/C/OpenServer/domains/biznes-fond_old/build/index.html",
+				"/C/OpenServer/domains/biznes-fond_old/build/js/main.js",
+				"/C/OpenServer/domains/biznes-fond_old/src/main/pug/modal-order.pug",
+				"/C/OpenServer/domains/biznes-fond_old/src/main/index.pug",
+				"/C/OpenServer/domains/biznes-fond_old/src/main/pug/modal_vac/vacancies.pug",
+				"/C/OpenServer/domains/biznes-fond_old/build/send.php",
+				"/C/OpenServer/domains/biznes-fond_old/src/main/pug/header.pug",
+				"/C/OpenServer/modules/php/PHP-5.6/php.ini",
+				"/C/Users/e.kozirev/Desktop/send.php",
+				"/C/OpenServer/domains/granat-nova_2/src/default/style/modal.styl",
+				"/C/Users/e.kozirev/Desktop/www/send.php",
+				"/C/OpenServer/domains/granat-nova_2/src/default/sprite/angle-down-select.svg",
+				"/C/OpenServer/domains/granat-nova_2/src/default/style/buttons.styl",
+				"/C/OpenServer/domains/granat-nova_2/src/default/style/_variables.styl",
+				"/C/OpenServer/domains/granat-nova_2/src/main/komet.pug",
+				"/C/OpenServer/domains/granat-nova_2/src/default/js/case-navigation.js",
+				"/C/OpenServer/domains/granat-nova_2/src/default/style/header.styl",
+				"/C/OpenServer/domains/granat-nova_2/src/default/style/breadcrumbs.styl",
+				"/C/OpenServer/domains/granat-nova_2/src/default/style/case.styl",
+				"/C/OpenServer/domains/granat-nova_2/src/main/tx-app.pug",
+				"/C/OpenServer/domains/granat-nova_2/build/css/main.css",
+				"/C/OpenServer/domains/granat-nova_2/src/main/pug/slide-clients.pug",
+				"/C/OpenServer/domains/granat-nova_2/src/default/style/tools/case-navigation.styl",
+				"/C/OpenServer/domains/granat-nova_2/build/js/main.js",
+				"/C/OpenServer/domains/granat-nova_2/src/default/style/footer.styl",
+				"/C/OpenServer/domains/tx.lo/config/sites/tx.lo.php",
+				"/C/OpenServer/domains/granat-nova_2/src/main/pug/slide-case.pug",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/modules/site/views/layouts/blocks/social-footer.php",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/modules/site/views/layouts/blocks/cities_list.php",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/modules/site/views/layouts/evacuator.php",
+				"/C/OpenServer/domains/granat-nova_2/src/default/js/fileUploader.js",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/modules/site/views/layouts/gigant.php",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/modules/site/views/layouts/dostavka.php",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/modules/site/views/layouts/main.php",
+				"/C/OpenServer/domains/granat-nova_2/src/default/sprite/close.svg",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/modules/site/views/layouts/upakovka.php",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/modules/site/views/layouts/specteh.php",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/modules/site/views/layouts/termo.php",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/modules/site/views/layouts/trash.php",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/main/search-result.pug",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/gui/component-status.pug",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/main/pug/layout.main.pug",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/main/style/main.styl",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/gui/list.pug",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/gui/layouts/gui/index.styl",
+				"/C/OpenServer/domains/granat-nova_2/src/main/pug/modal/case-callback.pug",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/gui/components/Overflow-menu/index.pug",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/gui/components/Overflow-menu/_mixins.pug",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/gui/components/Overflow-menu/index.styl",
+				"/C/OpenServer/domains/biznes-fond/src/main/js/glossary.js",
+				"/C/OpenServer/domains/biznes-fond/src/main/js/glossaryArray.js",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/gui/modules/Header/index.styl",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/gui/globals/js/vendors.js",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/gui/layouts/gui/parts/header/index.pug",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/gui/layouts/gui/js/app.js",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/gui/globals/js/jquery.easy-autocomplete.js",
+				"/C/OpenServer/domains/biznes-fond/bower_components/EasyAutocomplete/dist/jquery.easy-autocomplete.js",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/gui/modules/Header/jquery.easy-autocomplete.js",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/gui/components/List/styles-4.pug",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/main/politics.pug",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/gui/components/List/index.styl",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/gui/components/List/multilist.pug",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/gui/typography.pug",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/gui/globals/stylus/_css--typography.styl",
+				"/C/OpenServer/domains/granat-nova_2/build/services.html",
+				"/C/OpenServer/domains/granat-nova_2/build/404.html",
+				"/C/OpenServer/domains/granat-nova_2/src/main/404.pug",
+				"/C/OpenServer/domains/granat-nova_2/src/default/style/_fonts.styl",
+				"/C/OpenServer/domains/granat-nova_2/src/main/close-people.pug",
+				"/C/OpenServer/domains/granat-nova_2/src/main/dost-app.pug",
+				"/C/OpenServer/domains/granat-nova_2/src/main/meteor.pug",
+				"/C/OpenServer/domains/granat-nova_2/src/main/musicl.pug",
+				"/C/OpenServer/domains/granat-nova_2/src/main/promo-tx-mts.pug",
+				"/C/OpenServer/domains/granat-nova_2/src/main/samson.pug",
+				"/C/OpenServer/domains/granat-nova_2/src/main/template.pug",
+				"/C/OpenServer/domains/granat-nova_2/src/main/tx.pug",
+				"/C/OpenServer/domains/granat-nova_2/src/default/index.pug",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/main/style/partials/services.styl",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/main/services-gf.pug",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/main/gruz-corp.index.pug",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/main/style/partials/juridicheskim-licam.styl",
+				"/C/OpenServer/domains/granat-nova_2/src/default/style/animate.styl",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/modules/site/views/layouts/blocks/order_car.php",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/modules/site/controllers/DefaultController.php",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/modules/site/models/OrderCar.php",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/modules/site/controllers/AjaxController.php",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/modules/site/views/upakovka/default/catalog.php",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/modules/site/views/upakovka/default/contacts.php",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/modules/site/views/upakovka/default/delivery.php",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/components/Breadcrumbs.php",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/modules/site/views/upakovka/default/index.php",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/modules/mng/views/articles-categories/create.php",
+				"/C/Users/e.kozirev/Desktop/старая упаковка Главная МСК.html",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/upakovka/style/upakovka.styl",
+				"/C/Users/e.kozirev/Desktop/старая упаковка Главная.html",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/upakovka/jade/header.pug",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/src/upakovka/style/header.styl",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/modules/site/views/upakovka/default/korzina-form.php",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/modules/site/views/upakovka/default/blocks/korzina_delivery.php",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/frontend/build/pack-cart.html",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/modules/site/views/layouts/blocks/modal.php",
+				"/C/OpenServer/domains/gruzovichkof.rus/www/modules/site/models/RelocationForm.php",
+				"/C/OpenServer/domains/granat-supernova/src/main/contacts.pug",
+				"/C/OpenServer/domains/granat-supernova/src/default/style/contacts.styl",
+				"/C/OpenServer/domains/granat-supernova/src/main/js/map.js",
+				"/C/OpenServer/domains/granat-nova_2/build/samson.html",
+				"/C/Users/e.kozirev/Desktop/snazzy-maps-example-shades-of-grey-style.html",
+				"/C/OpenServer/domains/granat-nova_2/src/default/style/typography.styl",
+				"/C/OpenServer/domains/granat-nova_2/src/default/style/base.styl",
+				"/C/OpenServer/domains/granat-nova_2/build/close-people.html",
+				"/C/OpenServer/domains/granat-nova_2/src/default/style/link.styl",
+				"/C/OpenServer/domains/granat-nova_2/build/main.html",
+				"/C/OpenServer/domains/granat-nova_2/src/default/pug/_mixins.pug",
+				"/C/OpenServer/domains/granat-nova_2/src/main/pug/layout.main.pug",
+				"/C/OpenServer/domains/granat-nova_2/gulpfile.babel.js",
+				"/C/OpenServer/domains/granat-nova_2/src/default/sprite/angle-down-select",
+				"/C/Users/e.kozirev/Desktop/x.svg",
+				"/C/OpenServer/domains/granat-nova_2/src/main/style/main.styl",
+				"/C/OpenServer/domains/granat-nova_2/src/default/style/social.styl"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 128.0,
+				"where_history":
+				[
+					"C:\\OpenServer\\domains\\granat-nova_2\\src\\default\\style",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src\\gui",
+					"C:\\OpenServer\\domains\\granat-nova_2\\src\\main",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\modules\\site\\controllers",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\modules",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\modules\\site\\views\\upakovka",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src\\upakovka",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src\\upakovka\\style",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src\\upakovka",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\modules",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\modules\\site\\views\\upakovka",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\messages",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\models",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\modules",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\modules",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\modules\\site\\views\\upakovka",
+					"C:\\OpenServer\\domains\\granat-nova_2\\src\\main",
+					"C:\\OpenServer\\domains\\granat-nova_2\\src\\default\\js",
+					"C:\\OpenServer\\domains\\granat-nova_2\\src\\default\\style",
+					"C:\\OpenServer\\domains\\granat-nova_2\\src\\main",
+					"C:\\OpenServer\\domains\\granat-nova_2\\src\\default\\style",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\components",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gosta_kingsman\\src\\main",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\modules\\site\\views",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\modules\\site\\views\\upakovka",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\modules\\site\\views\\upakovka",
+					"C:\\OpenServer\\domains\\biznes-fond_old\\src\\default\\style",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\modules",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\modules",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\modules\\site\\views\\main",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src\\default",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\modules",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\modules\\site\\views\\main",
+					"C:\\OpenServer\\domains\\granat-nova_2\\node_modules\\bootstrap-styl\\bootstrap",
+					"C:\\OpenServer\\domains\\granat-nova_2\\node_modules\\bootstrap-styl\\bootstrap\\mixins",
+					"C:\\OpenServer\\domains\\granat-nova_2\\src\\default\\style",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\modules",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\tx.lo",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\modules\\site\\views",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src\\default\\style",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src\\default\\style",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\granat-nova_2\\src\\default\\style",
+					"C:\\OpenServer\\domains\\granat-nova_2\\src",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\modules\\site\\views\\trash",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\granat-nova_2\\src",
+					"C:\\OpenServer\\domains\\granat-nova_2",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src\\main\\style",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src\\default\\style",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\modules",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\web",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\web",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\migrations",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\web\\scripts",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src\\gui\\globals\\stylus",
+					"C:\\OpenServer\\domains\\tx-frontend_new\\frontend\\src\\landing\\style\\excursions\\partials",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src\\main\\style",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src\\main",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src\\default",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src\\main\\style",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src\\default",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src\\main",
+					"C:\\OpenServer\\domains\\pirogi-domoy\\src\\default\\style",
+					"C:\\OpenServer\\domains\\pirogi-domoy\\src\\main\\style",
+					"C:\\OpenServer\\domains\\pirogi-domoy\\src\\default\\style",
+					"C:\\OpenServer\\domains\\pirogi-domoy\\src\\main\\style",
+					"C:\\OpenServer\\domains\\pirogi-domoy\\src\\default\\style",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend",
+					"C:\\OpenServer\\domains\\pirogi-domoy\\node_modules\\bootstrap-styl",
+					"C:\\OpenServer\\domains\\pirogi-domoy\\src\\default\\style",
+					"C:\\OpenServer\\domains\\pirogi-domoy\\node_modules\\bootstrap-styl\\bootstrap",
+					"C:\\OpenServer\\domains\\pirogi-domoy\\src\\main",
+					"C:\\OpenServer\\domains\\biznes-fond\\src\\main",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\web\\scripts",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src\\gui\\components",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src\\gui",
+					"C:\\OpenServer\\domains\\biznes-fond\\src\\main",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www\\frontend\\src\\default\\style",
+					"C:\\OpenServer\\domains\\gruzovichkof.rus\\www",
+					"C:\\OpenServer\\domains\\biznes-fond",
+					"C:\\OpenServer\\domains\\biznes-fond\\src\\main"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"svg",
+					"data-js",
+					"<button class=\"button __style-2 __size-md\">Оставить заявку</button>",
+					"<form class=\"form\">\n-                                   <input class=\"hidden\" id=\"type\" name=\"type\" type=\"text\" placeholder=\"\" value=\"request\">",
+					"<div class=\"services_b_title",
+					"лояльность к компании.",
+					"services_i col-md-3 col-sm-6\"><img class=\"img-responsive-inline\" src=\"images/service_2.jpg\" alt=\"Холодные звонки\"",
+					"<p>Работаем с торговыми сетями",
+					"<section class=\"services_i",
+					"img",
+					"fileff",
+					"$status",
+					"type",
+					"vacancy_form",
+					"icon",
+					"./images/sprite.svg",
+					"rgba($color_grey-30, .7)",
+					"select",
+					"console.log(true)",
+					"load",
+					"afterAnimate",
+					"https",
+					"top",
+					"$main_indent",
+					"main_indent",
+					"b0dffd7ac80f343431b431254ce2865881c65c01",
+					"slick",
+					"overflow-menu_list",
+					"11",
+					"domain",
+					"socials",
+					"settings",
+					"overflow-menu",
+					"easyAutocomplete",
+					"header-search",
+					"data-js=\"header-search\"",
+					"Glossary",
+					"header_cities",
+					"<ol class=\"list __style-3\">",
+					"<ol class=\"list __style-2\">",
+					"ol",
+					"text-color-brand-01",
+					"Form",
+					"politics-list",
+					"section_project",
+					"section-project",
+					"services",
+					".dilution-list",
+					"switch",
+					"simpe",
+					"Магазин упаковки",
+					"МАГАЗИН УПАКОВКИ",
+					"МАГАЗИН УПАКОВКИ\n",
+					"model",
+					"php",
+					"breadcrumbs",
+					"Грузоперевозки",
+					"wrapper upakovka",
+					"заказать",
+					"header_logo-add",
+					".header",
+					"-add",
+					"add",
+					"header",
+					"Магазин упаковки",
+					"header_logo-add",
+					"deliveries",
+					"Cart",
+					"тече",
+					"cart-form",
+					"В течении двух часов",
+					"radio-button_label_appearance",
+					"Доста",
+					"cart-delivery",
+					"течении",
+					"В течении двух часов",
+					"течении",
+					"nечении",
+					"В течении",
+					"В течении двух часов",
+					"cart-form",
+					"beachMarker",
+					"mapOptions",
+					"img",
+					".case-musicl",
+					"modal-message",
+					"sprite",
+					"svg",
+					"input",
+					"file",
+					"auto",
+					"svg",
+					"selec",
+					".link",
+					".case-navigation",
+					"<use xlink:href=\"[[~[[*id]]]]",
+					"icon",
+					"<use xlink:href=\"[[~[[*id]]]]",
+					"svg",
+					"document.location.pathname",
+					"histor",
+					"+icon('angle-left')\n+icon('angle-right')",
+					"each",
+					"buttons",
+					"sections",
+					"index",
+					"HEAD",
+					".case-txapp",
+					".case-txapp_main",
+					"window",
+					"console",
+					".case-promotxmts",
+					".case-komet",
+					".case-kome",
+					"animateCss",
+					".case-musicl",
+					".case-komet",
+					".case-komet_mir",
+					".case-meteor",
+					"load",
+					"fullpage",
+					"scrollOverflow",
+					"scrollOverflow:true",
+					"fp-section",
+					".fp-section",
+					"destroy();",
+					"$.fn.fullpage.destroy();",
+					"$.fn.fullpage.destroy();\n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"$color_black-30",
+					"http",
+					"<ol class=\"list __style-3 __num-style-1\">",
+					"<ol class=\"list __style-2 __num-style-1\">",
+					"section-project",
+					".services-list",
+					".case-samson",
+					"<use xlink:href=\"/assets/images/sprite.svg",
+					"+icon('angle-right')\n+icon('angle-left')",
+					".case-tx",
+					".case-txapp",
+					".case-promotxmts",
+					".case-dostapp",
+					".case-musicl",
+					".case-komet_adv",
+					".case-komet",
+					"caseNavigation",
+					" ",
+					"",
+					"grid-inline",
+					"<use xlink:href=\"[[~[[*id]]]]",
+					"grid-inline",
+					"$el",
+					"customSelect",
+					".section_project",
+					"₽",
+					" ₽",
+					"₽",
+					"$body",
+					"$fullpage",
+					"<span class=\"tariff-price_val-currency ruble\">₽</span>",
+					"<span class=\"ruble\">₽</span>",
+					"<span class=\"tariff-price_val-currency ruble\">₽</span>",
+					" ₽",
+					"Pragmatica",
+					".section-clients_slider_i.wow.zoomIn",
+					"data-color_theme",
+					"color_style",
+					"data-color_style",
+					".wow.fadeIn",
+					"<span class=\"ruble\">₽</span>",
+					"$items",
+					"<div class=\"form_submit\">\n        <input type=\"submit\" value=\"Отправить анкету\" class=\"button __size-md __style-4\">\n    </div>",
+					"<?= $form->field($model, 'checked')->checkbox([\n    'class' => false,\n    'label' => '<div class=\"convention-text text-left\">Я не против проверки сведений <a href=\"#\" data-js=\"show-text\">...</a><span class=\"hidden\" date-js=\"hidden-text\">, изложенных мною в анкете. Я понимаю, что предоставление ложной информации повлечет за собой прекращение переговоров о найме на работу или мое увольнение в случае, если прием на работу состоится. Ксерокопии документов не возвращаются.</span> <a href=\"#\" class=\"hidden\" data-js=\"hide-text\"><small>свернуть</small></a></div>'\n])->label('', ['class' => false])->error(false) ?>",
+					"<?= $form->field($model, 'checked')->checkbox([\n    'class' => false,\n    'label' => '<div class=\"convention-text\">Я не против проверки сведений <a href=\"#\" data-js=\"show-text\">...</a><span class=\"hidden\" date-js=\"hidden-text\">, изложенных мною в анкете. Я понимаю, что предоставление ложной информации повлечет за собой прекращение переговоров о найме на работу или мое увольнение в случае, если прием на работу состоится. Ксерокопии документов не возвращаются.</span> <a href=\"#\" class=\"hidden\" data-js=\"hide-text\"><small>свернуть</small></a></div>'\n])->label('', ['class' => false])->error(false) ?>",
+					"<?= $form->field($model, 'checked')->checkbox([\n    'class' => 'form__text',\n    'label' => '<div class=\"convention-text\">Я не против проверки сведений <a href=\"#\" data-js=\"show-text\">...</a><span class=\"hidden\" date-js=\"hidden-text\">, изложенных мною в анкете. Я понимаю, что предоставление ложной информации повлечет за собой прекращение переговоров о найме на работу или мое увольнение в случае, если прием на работу состоится. Ксерокопии документов не возвращаются.</span> <a href=\"#\" class=\"hidden\" data-js=\"hide-text\"><small>свернуть</small></a></div>'\n])->label('', ['class' => false])->error(false) ?>",
+					"<?= $form->field($model, 'graf')->textInput(['class' => false])->label('Желаемый график работы', ['class' => false]) ?>",
+					"<?= $form->field($model, 'work')->textArea(['class' => false])->label('Предыдущее место работы', ['class' => false]) ?>",
+					"<?= $form->field($model, 'study')->textArea(['class' => false])->label('Образование', ['class' => false]) ?>",
+					"<?= $form->field($model, 'know')->textInput(['class' => false])->label('Знание компьютера', ['class' => false]) ?>",
+					"<?= $form->field($model, 'address')->textInput(['placeholder' =>$address, 'class' => false]) ?>",
+					"<div class=\"form_submit\">\n        <input type=\"submit\" value=\"Позвоните мне\" class=\"button __size-md __style-4\">\n    </div>",
+					"<?= $form->field($model, 'know')->textArea(['class' => false])->label('Опишите свои навыки', ['class' => false]) ?>",
+					"<?= $form->field($model, 'know')->textArea(['class' => 'form__text'])->label('Опишите свои навыки', ['class' => false]) ?>",
+					"<?= $form->field($model, 'address')->textInput(['placeholder' => $address, 'class' => false]) ?>",
+					"<?= $form->field($model, 'phone')->textInput(['placeholder' => '+7 (111) 111-11-11', 'data-js-mask' => '+7 (999) 999-99-99', 'class' => false]) ?>",
+					"<?= $form->field($model, 'birthday')->textInput(['placeholder' => '01.01.1980', 'class' => 'js-datapicker', 'id' => 'jobs-datepicker']) ?>",
+					"<?= $form->field($model, 'name')->textInput(['placeholder' => 'Фамилия Имя Отчество', 'class' => 'only-letter-input']) ?>",
+					"<?= $form->field($model, 'categ', ['template' => '<div class=\"form_field_label\">{label}</div><div class=\"form_field_input\"><div class=\"select_w\" data-js=\"chosen\">{input}</div></div>'])->dropDownList($model->getCategory(), ['class' => 'select'])->label('Категория/стаж'); ?>",
+					"<?= $form->field($model, 'stag', ['template' => '<div class=\"form_field_label\">{label}</div><div class=\"form_field_input\"><div class=\"select_w\" data-js=\"chosen\">{input}</div></div>'])->dropDownList($model->getStage(), ['class' => 'select'])->label(false); ?>",
+					"'fieldConfig' => [\n        'template' => \"<div class='form_field_label'>{label}</div>\\n<div class='form_field_input'>{input}</div>\",\n        'labelOptions' => [],\n        'options' => [\n            'class' => 'form_field',\n        ],\n    ],",
+					"'fieldConfig' => [\n    'template' => \"<div class='form_field_label'>{label}</div>\\n<div class='form_field_input'>{input}</div>\",\n    'labelOptions' => [],\n    'options' => [\n        'class' => 'form_field',\n    ],\n],",
+					"'fieldConfig' => [\n        'template' => \"<div class='form_field_label'>{label}</div>\\n<div class='form_field_input'>{input}</div>\",\n        'labelOptions' => [],\n        'options' => [\n            'class' => 'form_field',\n        ],\n    ],",
+					"<span class=\"cfc__rubl-symbol\">₽</span>",
+					".ruble ₽",
+					"&nbsp;<span class=\"ruble\">₽</span>",
+					"<span class=\"ruble\">₽</span>",
+					"&nbsp;₽",
+					"₽",
+					"Property-table",
+					"Property Table",
+					".container",
+					"property-list",
+					".property-list",
+					"Property-list",
+					".property-list",
+					"property-list",
+					",\n                                    image_xs:\n                                    image:",
+					".col-xs-6.col-sm-6.col-md-4",
+					"' + o",
+					"@margin-top",
+					") {",
+					"@margin-top",
+					"pageNavigation",
+					"Page-navigation",
+					"Page Navigation",
+					"consss-section",
+					"contact-section",
+					", ['",
+					", '[",
+					"'],",
+					"$options",
+					"#000",
+					"$color_white-10",
+					"$brand-01",
+					"Category",
+					".category",
+					"| ₽",
+					"₽",
+					"a.button.__size-sm.__style-2(href='#') Заказать",
+					"a.button.__size-md.__style-2(href='#') Заказать",
+					"a.button.__size-md.__style-1(href='#') Заказать",
+					"/images/landings/",
+					"/images",
+					"images",
+					"http",
+					"landing",
+					"h4",
+					"main",
+					"'../../",
+					"extends pug/layout.default.pug",
+					"extends ../default/pug/layout.default.pug",
+					"pug",
+					".carousel-vacansies_slide",
+					".carousel-vacansies",
+					"galleryItem",
+					"figure",
+					"className",
+					" ",
+					"colorBgTR",
+					"$color",
+					"blockColor",
+					"a(href=\"vacancies.html\") Вакансии",
+					"a(href=\"team.html\") Команда",
+					"a(href=\"achievement.html\") Достижения",
+					"vacancies_tabs",
+					"data-sup",
+					"vacancies-tabs"
+				],
+				"reverse": false,
+				"show_context": false,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\OpenServer\\domains\\pirogi-domoy"
+				},
+				{
+					"path": "C:\\OpenServer\\domains\\granat-supernova"
+				},
+				{
+					"path": "C:\\OpenServer\\domains\\granat-nova_2"
+				},
+				{
+					"path": "C:\\OpenServer\\domains\\tx-frontend_new"
+				},
+				{
+					"path": "C:\\OpenServer\\domains\\tx.lo"
+				},
+				{
+					"path": "C:\\OpenServer\\domains\\granat-holding"
+				},
+				{
+					"path": "C:\\OpenServer\\domains\\biznes-fond"
+				},
+				{
+					"path": "C:\\OpenServer\\domains\\biznes-fond_old"
+				},
+				{
+					"path": "C:\\OpenServer\\domains\\gosta_kingsman"
+				},
+				{
+					"path": "C:\\OpenServer\\domains\\gruzovichkof.rus\\www"
+				},
+				{
+					"path": "C:\\OpenServer\\domains\\gulp_boilerplate2"
+				},
+				{
+					"path": "C:\\OpenServer\\domains\\gulp_boilerplate"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				},
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.509287925697,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 130.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 354.0
+			},
+			"output.sftp":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,941,204,123,1564",
+			"project": "",
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 1,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 305.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

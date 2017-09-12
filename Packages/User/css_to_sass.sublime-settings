@@ -1,0 +1,3 @@
+[
+    { "keys": ["ctrl+v+c"], "command": "css_to_sass" },
+  ]
