@@ -20,6 +20,6 @@ Package Control.ca-certs/
 
 #IGNORE DIRECTIONS
 #####################
-/Backup
-/Settings
-/Local
+Backup/
+Settings/
+Local/
