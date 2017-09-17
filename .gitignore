@@ -17,9 +17,12 @@ Package Control.ca-bundle
 Package Control.system-ca-bundle
 Package Control.cache/
 Package Control.ca-certs/
+Installed Packages/PyV8/win64-p3/config.json
 
 #IGNORE DIRECTIONS
 #####################
 Backup/
 Settings/
 Local/
+Local/Session.sublime_session
+Settings/BufferScroll.bin.gz
