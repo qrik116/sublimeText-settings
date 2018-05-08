@@ -8,10 +8,14 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"TypeScript",
 		"Vintage"
+	],
+	"ignored_words":
+	[
+		"grey"
 	],
 	"margin": 2,
 	"tab_size": 4,
+	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true
 }

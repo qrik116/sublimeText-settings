@@ -2,28 +2,27 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"TypeScript"
 	],
 	"installed_packages":
 	[
 		"All Autocomplete",
 		"AutoFileName",
+		"Babel",
 		"BracketHighlighter",
 		"CSS To SASS And Stylus Converter",
 		"Emmet",
 		"FileDiffs",
 		"JavaScriptNext - ES6 Syntax",
 		"jQuery",
-		"Minifier",
+		"JSX",
 		"Package Control",
 		"Pug",
+		"ReactJS",
 		"Sass",
 		"SFTP",
 		"Stylus",
 		"SublimeCodeIntel",
 		"SublimeLinter",
-		"SublimeLinter-csslint",
-		"WordPress",
-		"WordPress Completions"
+		"SublimeLinter-csslint"
 	]
 }
